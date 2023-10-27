@@ -40,7 +40,7 @@
        @include('acceuil.mobile')
 	<!--End Mobile Menu-->
     
-    <!--Body Content-->
+    <!--Body Congjgjtent-->
     <div id="page-content">
     	<!--Home slider-->
     	<div class="slideshow slideshow-wrapper pb-section sliderFull">
