@@ -81,8 +81,8 @@
         </div>
         <!--End Home slider-->
         
-        <!--Shop the Latest & Greatest Shoes-->
-        <div class="section">
+        <!--Shop the Latest & Greatest Shoes testest-->
+        <div class="section"> 
         	<div class="container">
             	<div class="row">
                 	<div class="col-12 col-sm-12 col-md-12 col-lg-12">
