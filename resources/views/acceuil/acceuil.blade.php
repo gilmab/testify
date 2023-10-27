@@ -81,7 +81,7 @@
         </div>
         <!--End Home slider-->
         
-        <!--Shop the Latest & Greatest Shoes testest-->
+        <!--Shop the Latest &   Greatest Shoes testest-->
         <div class="section"> 
         	<div class="container">
             	<div class="row">
@@ -394,7 +394,7 @@
         </div>
         <!--End Shop the Latest & Greatest Shoes-->
         
-        <!--Logo Slider-->
+        <!--Logo teff Slider-->
         <div class="section logo-section">
         	<div class="container">
             	<div class="row">
