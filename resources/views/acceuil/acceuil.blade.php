@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 
+<!-- This is the thing   -->
+
 <!-- belle/home7-shoes.html   11 Nov 2019 12:28:16 GMT -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
