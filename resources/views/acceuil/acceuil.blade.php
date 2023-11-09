@@ -235,7 +235,7 @@
                                                 <i class="icon anm anm-random-r"></i>
                                             </a>
                                         </div>
-                                    </div>
+                                    </div> 
                                     <!-- end product button -->
                                 </div>
                                 <!-- End product details -->
