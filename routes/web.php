@@ -20,7 +20,7 @@ use App\Http\Controllers\VisController ;
 
 
 //Route pour le nouveau design 
-Route::get('/tert', [VisController::class, 'acceuil']) ; 
+Route::get('/test', [VisController::class, 'acceuil']) ; 
 
 
 Route::get('/', [HomeController::class, 'index']) ;
