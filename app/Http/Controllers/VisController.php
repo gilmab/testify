@@ -9,7 +9,7 @@ use App\Models\Product ;
 class VisController extends Controller
 {
     public function acceuil(){
-        $product = Product::paginate(3) ; 
+        $product = Product::paginate(3) ;      
         return view('acceuil.acceuil', compact('product')) ;
        
        
